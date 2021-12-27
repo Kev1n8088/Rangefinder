@@ -1,4 +1,4 @@
-Day to Day Log
+**Day to Day Log**
 
 Jun 19 2021: 
 
