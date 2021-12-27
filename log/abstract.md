@@ -1,4 +1,4 @@
-Abstract:
+**Abstract:**
 
 The goal is to create a stereo camera system that can find an object's location in space, calculate the necessary elevation and azimuth for a turret, and direct an arduino turret to aim at the turret. The system should be fairly accurate (Hits a 10x10 cm area at 3 meters), and should be real time (or as close as possible to real time).
 
