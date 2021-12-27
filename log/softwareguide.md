@@ -1,4 +1,4 @@
-**Rangefinder: Software Guide**
+**Software Guide**
 
 **Computer:**
 
