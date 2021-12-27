@@ -3,3 +3,4 @@ The goal is to create a system that uses two wide angle cameras to determine an 
 
 Demonstration: https://youtu.be/Nq9aST2cuNg
 
+![Demo Animation](../assets/image8.jpg?raw=true)
